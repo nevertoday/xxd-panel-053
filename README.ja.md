@@ -34,9 +34,25 @@ lock identity, proportion, posture, direction, and relation → preserve three c
 
 完全な美的制約と拒否項目は Skill と生成プロンプトにあります。原文の美的動機を守りつつ、歴史的な3:4画布を隠れた既定値にはしません。 [SKILL.md](SKILL.md) · [production prompt](references/xxd-panel-053-prompt.en.md)
 
-## 作例
+## 作例 · X より
 
-作例はまだ提供されていません。予約場所は [assets/examples](assets/examples/README.md) に記載しています。今後の作例は美的意図だけを示し、生成参照、固定された被写体、構図、配色、文案、既定画布にはなりません。
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026年8月23日<br>
+> GPT2 × 手描き × 即興 × 美学プロンプト × VOL.053
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 053 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 053 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 053 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 053 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 053 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
 
 ## 組み合わせ可能な4つの出力
 

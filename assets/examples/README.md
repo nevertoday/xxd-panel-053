@@ -1,5 +1,15 @@
 # XXD Panel 053 samples
 
-No official sample post has been supplied yet. This directory is intentionally reserved for future local sample images and source verification.
+Verified source: https://x.com/xiaoxiaodong01/status/2091521812878459186
 
-When samples are added, record the original X URL, author, `VOL.053` assignment, verification note, and local filenames. Samples demonstrate the aesthetic motive and range only; they never become generation references, source material, fixed subjects, palettes, composition, copy, or default canvas sizes.
+- Author: Xiaoxiaodong (`@xiaoxiaodong01`)
+- Project assignment: `VOL.053`
+- Verification: The X post explicitly identifies the series as `VOL.053`.
+- Published: 2026-08-23
+- Local files:
+  - `sample-01.jpg`
+  - `sample-02.jpg`
+  - `sample-03.jpg`
+  - `sample-04.jpg`
+
+The repository READMEs display these local copies and link every image back to the original X post. The samples demonstrate the style's aesthetic motive and range only; they never become generation references, source material, fixed subjects, palettes, composition, copy, or default canvas sizes.
