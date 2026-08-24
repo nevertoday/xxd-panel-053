@@ -1,5 +1,13 @@
 # XXD Panel 053 | Observational Pen-and-Light-Wash Production Prompt
 
+## Runtime complete-canvas contract — highest priority
+
+- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
+- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
+- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
+- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
+- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+
 Process only the source photograph explicitly supplied for this fresh task. Privately lock subject identity, proportion, posture, direction, action, narrative relation, light, emotional implication, and source colour. Preserve at least three source-specific cues and never borrow from another input, old output, or sample.
 
 ## Aesthetic reconstruction
@@ -23,7 +31,6 @@ Obey the resolved automatic-copy, exact-custom-copy, or no-text mode and the tar
 
 ## Mode and acceptance
 
-Obey appended `OUTPUT MODE`, `FINAL SIZE`, and `DESIGN FRAME` exactly. Paired modes generate the design half only. Design-only and wallpapers contain no source photo, seam, or reserved photo panel. Recompose each wallpaper for its device rather than cropping another result. A linked pack always references the original source and the same approved anchor, never a chain of derivatives.
 
 Reject descriptive tracing, complete watercolour scenes, even distribution, filled backgrounds, over-rendering, decorative brushwork, heavy black outlines, vector lines, cartooning, 3D rendering, menu layouts, and commercial-poster templates. Also reject logos, watermarks, colour swatches, UI, device mockups, unsupported facts, fake foreign text, and illegible copy.
 
