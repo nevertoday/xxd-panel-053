@@ -1,5 +1,5 @@
 interface:
-  display_name: "🦁 XXD Panel 053"
+  display_name: "/xxd-panel-053"
   short_description: "Turn photos into rhythmic observational pen-and-wash pages"
   default_prompt: "Use $xxd-panel-053 with my photograph, ask for modes and copy settings, then create fresh raster outputs."
 policy:
