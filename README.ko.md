@@ -14,26 +14,6 @@
 
 원본을 정체성을 살리는 최소한의 선과 투명한 색 메모로 편집합니다. 가장 중요한 윤곽이나 동작을 시각적 모티프로 삼아 반복, 변주, 강세, 쉼, 그리고 정확한 멈춤으로 구성합니다.
 
-## 이 Skill이 필요한 이유
-
-이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
-
-```text
-lock identity, proportion, posture, direction, and relation → preserve three cues → select lines worth remembering → establish one visual motif → repeat, vary, accent, pause, and stop → add two to four source-derived washes → let near-white paper act as silence → let copy become a light echo
-```
-
-무관한 사진으로 바꿔도 모티프, 식별 단서, 선의 리듬, 색 메모, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
-
-## 시각적 원칙
-
-- 실루엣, 비례, 자세, 동작, 방향, 구조, 관계에서 원본 고유 단서를 세 가지 이상 보존합니다.
-- 가늘고 느슨하며 불균일한 펜선을 쓰고 탐색선, 수정, 갑작스러운 강약, 미완성 가장자리를 허용하되 핵심 비례는 정확히 유지합니다.
-- 하나의 윤곽이나 동작을 반복, 변주, 강세, 쉼의 모티프로 만들고 넓은 공백을 능동적 휴지로 사용합니다.
-- 원본에서 얻은 두세 가지 또는 네 가지 색만 투명한 국소 담채로 쓰고 거의 흰 종이색을 원본 온도에 맞춥니다.
-- “자연스러운 연결”은 고정 중간선 주변의 시각적 연속성일 뿐, 정확한 50/50 이중 패널 기하를 바꾸지 않습니다.
-
-미적 제약과 금지 항목은 [원본 프롬프트](references/053-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-053-prompt.en.md)
-
 ## 예시 · X에서
 
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026년 8월 23일<br>
@@ -53,6 +33,26 @@ lock identity, proportion, posture, direction, and relation → preserve three c
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 053의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+## 이 Skill이 필요한 이유
+
+이 스타일은 원본에 의존하며 내용을 바꿔 끼우는 장식 프리셋이 아닙니다. 다음 변환 인과를 따릅니다:
+
+```text
+lock identity, proportion, posture, direction, and relation → preserve three cues → select lines worth remembering → establish one visual motif → repeat, vary, accent, pause, and stop → add two to four source-derived washes → let near-white paper act as silence → let copy become a light echo
+```
+
+무관한 사진으로 바꿔도 모티프, 식별 단서, 선의 리듬, 색 메모, 여백과 문구가 실질적으로 달라지지 않는다면 이 Panel의 결과가 아닙니다.
+
+## 시각적 원칙
+
+- 실루엣, 비례, 자세, 동작, 방향, 구조, 관계에서 원본 고유 단서를 세 가지 이상 보존합니다.
+- 가늘고 느슨하며 불균일한 펜선을 쓰고 탐색선, 수정, 갑작스러운 강약, 미완성 가장자리를 허용하되 핵심 비례는 정확히 유지합니다.
+- 하나의 윤곽이나 동작을 반복, 변주, 강세, 쉼의 모티프로 만들고 넓은 공백을 능동적 휴지로 사용합니다.
+- 원본에서 얻은 두세 가지 또는 네 가지 색만 투명한 국소 담채로 쓰고 거의 흰 종이색을 원본 온도에 맞춥니다.
+- “자연스러운 연결”은 고정 중간선 주변의 시각적 연속성일 뿐, 정확한 50/50 이중 패널 기하를 바꾸지 않습니다.
+
+미적 제약과 금지 항목은 [원본 프롬프트](references/053-source.md)에만 있으며 Skill과 런타임 어댑터는 이번 출력 변수만 처리합니다. [Skill](SKILL.md) · [영문 런타임 어댑터](references/xxd-panel-053-prompt.en.md)
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

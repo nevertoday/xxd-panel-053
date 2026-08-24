@@ -14,26 +14,6 @@
 
 元写真を、識別性を保つ最小限の線と透明な色彩メモへ編集します。最重要の輪郭や動作を視覚的モチーフとし、反復、変奏、アクセント、休止、そして的確な停止で構成します。
 
-## この Skill が必要な理由
-
-このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
-
-```text
-lock identity, proportion, posture, direction, and relation → preserve three cues → select lines worth remembering → establish one visual motif → repeat, vary, accent, pause, and stop → add two to four source-derived washes → let near-white paper act as silence → let copy become a light echo
-```
-
-無関係な写真に替えてもモチーフ、識別手掛かり、線のリズム、色彩メモ、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
-
-## ビジュアル契約
-
-- シルエット、比率、姿勢、動作、方向、構造、関係から元写真固有の手掛かりを三つ以上保つ。
-- 細く緩い不均一なペン線を使い、探り線、修正、急な強弱、未完の縁を許しつつ、重要な比率は正確にする。
-- 一つの輪郭や動作を反復、変奏、アクセント、休止の視覚モチーフにし、大きな空白を能動的な休符にする。
-- 元写真由来の二〜四色だけを透明な局部淡彩に使い、ほぼ白い紙色を元写真の色温度に合わせる。
-- 「自然なつながり」は固定中線付近の視覚的連続性であり、二連の厳密な50/50幾何を変えない。
-
-美的制約と拒否項目は[原文プロンプト](references/053-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-053-prompt.en.md)
-
 ## 作例 · X より
 
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026年8月23日<br>
@@ -53,6 +33,26 @@ lock identity, proportion, posture, direction, and relation → preserve three c
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 053 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+## この Skill が必要な理由
+
+このスタイルは元写真に依存し、内容を差し替えられる装飾プリセットではありません。変換は次の因果鎖に従います：
+
+```text
+lock identity, proportion, posture, direction, and relation → preserve three cues → select lines worth remembering → establish one visual motif → repeat, vary, accent, pause, and stop → add two to four source-derived washes → let near-white paper act as silence → let copy become a light echo
+```
+
+無関係な写真に替えてもモチーフ、識別手掛かり、線のリズム、色彩メモ、余白、文案が実質的に変わらないなら、本 Panel の成果ではありません。
+
+## ビジュアル契約
+
+- シルエット、比率、姿勢、動作、方向、構造、関係から元写真固有の手掛かりを三つ以上保つ。
+- 細く緩い不均一なペン線を使い、探り線、修正、急な強弱、未完の縁を許しつつ、重要な比率は正確にする。
+- 一つの輪郭や動作を反復、変奏、アクセント、休止の視覚モチーフにし、大きな空白を能動的な休符にする。
+- 元写真由来の二〜四色だけを透明な局部淡彩に使い、ほぼ白い紙色を元写真の色温度に合わせる。
+- 「自然なつながり」は固定中線付近の視覚的連続性であり、二連の厳密な50/50幾何を変えない。
+
+美的制約と拒否項目は[原文プロンプト](references/053-source.md)だけにあり、Skill とランタイムアダプターは今回の出力変数だけを扱います。 [Skill](SKILL.md) · [英語ランタイムアダプター](references/xxd-panel-053-prompt.en.md)
 
 ## 原文プロンプトを唯一の美的基準にする
 

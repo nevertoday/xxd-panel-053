@@ -14,26 +14,6 @@
 
 Reduce the source to the few lines and transparent colour notes that keep its identity alive. The strongest contour or action becomes a visual motif, organised through repetition, variation, accent, pause, and a decisive stop.
 
-## Why this Skill exists
-
-The style is source-dependent, not a decorative preset. Its operative transformation is:
-
-```text
-lock identity, proportion, posture, direction, and relation → preserve three cues → select lines worth remembering → establish one visual motif → repeat, vary, accent, pause, and stop → add two to four source-derived washes → let near-white paper act as silence → let copy become a light echo
-```
-
-If an unrelated photograph could replace the source without materially changing the motif, recognition cues, line rhythm, colour notes, whitespace, and copy, the result does not belong to this Panel.
-
-## The visual contract
-
-- Preserve at least three source-specific cues across silhouette, proportion, posture, action, direction, structure, or relation.
-- Use fine, loose, uneven pen lines with searching marks, corrections, sudden weight, and unfinished edges while keeping key proportions accurate.
-- Turn one contour or action into a visual motif of repetition, variation, accent, and pause; let large blank areas function as active rests.
-- Use only two to four source colours as transparent local washes; tune the near-white paper subtly to source temperature.
-- “Natural transition” is visual continuity around the fixed midpoint, never a change to exact 50/50 paired geometry.
-
-Aesthetic constraints and rejection rules live only in the [original source brief](references/053-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-053-prompt.en.md)
-
 ## Samples · From X
 
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 23 August 2026<br>
@@ -53,6 +33,26 @@ Aesthetic constraints and rejection rules live only in the [original source brie
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 053 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+## Why this Skill exists
+
+The style is source-dependent, not a decorative preset. Its operative transformation is:
+
+```text
+lock identity, proportion, posture, direction, and relation → preserve three cues → select lines worth remembering → establish one visual motif → repeat, vary, accent, pause, and stop → add two to four source-derived washes → let near-white paper act as silence → let copy become a light echo
+```
+
+If an unrelated photograph could replace the source without materially changing the motif, recognition cues, line rhythm, colour notes, whitespace, and copy, the result does not belong to this Panel.
+
+## The visual contract
+
+- Preserve at least three source-specific cues across silhouette, proportion, posture, action, direction, structure, or relation.
+- Use fine, loose, uneven pen lines with searching marks, corrections, sudden weight, and unfinished edges while keeping key proportions accurate.
+- Turn one contour or action into a visual motif of repetition, variation, accent, and pause; let large blank areas function as active rests.
+- Use only two to four source colours as transparent local washes; tune the near-white paper subtly to source temperature.
+- “Natural transition” is visual continuity around the fixed midpoint, never a change to exact 50/50 paired geometry.
+
+Aesthetic constraints and rejection rules live only in the [original source brief](references/053-source.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-053-prompt.en.md)
 
 ## The original brief is authoritative
 
