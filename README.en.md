@@ -34,7 +34,18 @@ Reduce the source to the few lines and transparent colour notes that keep its id
 
 These samples demonstrate the 053 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why this Skill exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 053 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Let the observed line stop at exactly the right moment |
+| **Recognizable signature** | OBSERVATIONAL PEN · TRANSPARENT WASH · MUSICAL RHYTHM · NEAR-WHITE PAPER · ACTIVE WHITESPACE |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 The style is source-dependent, not a decorative preset. Its operative transformation is:
 
@@ -44,7 +55,7 @@ lock identity, proportion, posture, direction, and relation → preserve three c
 
 If an unrelated photograph could replace the source without materially changing the motif, recognition cues, line rhythm, colour notes, whitespace, and copy, the result does not belong to this Panel.
 
-## The visual contract
+## What makes the finished style recognizable
 
 - Preserve at least three source-specific cues across silhouette, proportion, posture, action, direction, structure, or relation.
 - Use fine, loose, uneven pen lines with searching marks, corrections, sudden weight, and unfinished edges while keeping key proportions accurate.
