@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> 観察ペン線 · 透明な淡彩 · 音楽的リズム · ほぼ白い紙 · 能動的な余白
 
+</div>
+
 元写真を、識別性を保つ最小限の線と透明な色彩メモへ編集します。最重要の輪郭や動作を視覚的モチーフとし、反復、変奏、アクセント、休止、そして的確な停止で構成します。
 
 ## 作例 · X より
@@ -247,5 +249,4 @@ Knowledge Planet と会員プロンプトライブラリは一つの年会です
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> OBSERVATIONAL PEN · TRANSPARENT WASH · MUSICAL RHYTHM · NEAR-WHITE PAPER · ACTIVE WHITESPACE
 
+</div>
+
 Reduce the source to the few lines and transparent colour notes that keep its identity alive. The strongest contour or action becomes a visual motif, organised through repetition, variation, accent, pause, and a decisive stop.
 
 ## Samples · From X
@@ -247,5 +249,4 @@ Chinese-language support may use Xiaoxiaodong's own WeChat or Alipay reward code
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

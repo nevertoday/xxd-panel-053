@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> خط قلم ملاحظ · تلوين شفاف · إيقاع موسيقي · ورق شبه أبيض · فراغ فعّال
 
+</div>
+
 تُختزل الصورة إلى أقل عدد من الخطوط وملاحظات اللون الشفافة التي تحفظ هويتها. ويصبح أقوى محيط أو فعل لازمة بصرية تُنظّم بالتكرار والتنويع والنبرة والوقفة والتوقف الحاسم.
 
 ## النماذج · من X
@@ -247,5 +249,4 @@ Knowledge Planet ومكتبة توجيهات الأعضاء عضوية سنوي�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

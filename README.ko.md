@@ -12,6 +12,8 @@
 
 <a href="README.md">简体中文</a> 관찰 펜선 · 투명 담채 · 음악적 리듬 · 거의 흰 종이 · 능동적 여백
 
+</div>
+
 원본을 정체성을 살리는 최소한의 선과 투명한 색 메모로 편집합니다. 가장 중요한 윤곽이나 동작을 시각적 모티프로 삼아 반복, 변주, 강세, 쉼, 그리고 정확한 멈춤으로 구성합니다.
 
 ## 예시 · X에서
@@ -247,5 +249,4 @@ Knowledge Planet과 회원 프롬프트 라이브러리는 하나의 연간 멤�
 
 <p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
 
-</div>
 </div>

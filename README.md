@@ -12,6 +12,8 @@
 
 <strong>简体中文</strong> 观察线稿 · 透明淡彩 · 音乐性节奏 · 近白纸面 · 大胆留白
 
+</div>
+
 将源照片删减为仍能维持身份的少量线条与透明色彩笔记；最重要的轮廓或动作成为视觉动机，在重复、变奏、重音、停顿与留白中适时停下。
 
 ## 样张 · 来自 X
@@ -250,5 +252,4 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 <td align="center"><a href="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png"><img src="https://colors.xiaoxiaodong.ai/docs/images/alipay-reward-qr.png" alt="XXD Alipay reward" width="180"></a><br><strong>Alipay</strong></td>
 </tr></table>
 
-</div>
 </div>
