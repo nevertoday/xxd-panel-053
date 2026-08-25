@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> OBSERVATIONAL PEN · TRANSPARENT WASH · MUSICAL RHYTHM · NEAR-WHITE PAPER · ACTIVE WHITESPACE
+<a href="README.md">简体中文</a> · <strong>English</strong> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-Reduce the source to the few lines and transparent colour notes that keep its identity alive. The strongest contour or action becomes a visual motif, organised through repetition, variation, accent, pause, and a decisive stop.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 23 August 2026<br>
-> GPT2 × hand drawing × improvisation × aesthetic prompt × VOL.053
 
 <table>
   <tr>
@@ -32,9 +27,16 @@ Reduce the source to the few lines and transparent colour notes that keep its id
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 23 August 2026<br>
+> GPT2 × hand drawing × improvisation × aesthetic prompt × VOL.053
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 053 aesthetic motive. Their subjects, composition, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+Reduce the source to the few lines and transparent colour notes that keep its identity alive. The strongest contour or action becomes a visual motif, organised through repetition, variation, accent, pause, and a decisive stop.
+
+OBSERVATIONAL PEN · TRANSPARENT WASH · MUSICAL RHYTHM · NEAR-WHITE PAPER · ACTIVE WHITESPACE
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 053 right for you?

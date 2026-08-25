@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> 観察ペン線 · 透明な淡彩 · 音楽的リズム · ほぼ白い紙 · 能動的な余白
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-元写真を、識別性を保つ最小限の線と透明な色彩メモへ編集します。最重要の輪郭や動作を視覚的モチーフとし、反復、変奏、アクセント、休止、そして的確な停止で構成します。
-
 ## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026年8月23日<br>
-> GPT2 × 手描き × 即興 × 美学プロンプト × VOL.053
 
 <table>
   <tr>
@@ -32,9 +27,16 @@
   </tr>
 </table>
 
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026年8月23日<br>
+> GPT2 × 手描き × 即興 × 美学プロンプト × VOL.053
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">元の投稿と完全なプロンプトを見る →</a></p>
 
 これらの作例は 053 の美的意図を示すものであり、作例の被写体、構図、配色、コピー、旧キャンバス比率が生成時の参照や現在の既定値になることはありません。
+
+元写真を、識別性を保つ最小限の線と透明な色彩メモへ編集します。最重要の輪郭や動作を視覚的モチーフとし、反復、変奏、アクセント、休止、そして的確な停止で構成します。
+
+観察ペン線 · 透明な淡彩 · 音楽的リズム · ほぼ白い紙 · 能動的な余白
 
 <!-- xxd-panel-benefit:start -->
 ## すぐに判断：XXD Panel 053 はあなたに合う？

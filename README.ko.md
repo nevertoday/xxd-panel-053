@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<a href="README.md">简体中文</a> 관찰 펜선 · 투명 담채 · 음악적 리듬 · 거의 흰 종이 · 능동적 여백
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-원본을 정체성을 살리는 최소한의 선과 투명한 색 메모로 편집합니다. 가장 중요한 윤곽이나 동작을 시각적 모티프로 삼아 반복, 변주, 강세, 쉼, 그리고 정확한 멈춤으로 구성합니다.
-
 ## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026년 8월 23일<br>
-> GPT2 × 손그림 × 즉흥 × 미학 프롬프트 × VOL.053
 
 <table>
   <tr>
@@ -32,9 +27,16 @@
   </tr>
 </table>
 
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026년 8월 23일<br>
+> GPT2 × 손그림 × 즉흥 × 미학 프롬프트 × VOL.053
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">원문 게시물과 전체 프롬프트 보기 →</a></p>
 
 이 예시는 053의 미학적 의도를 보여 줄 뿐이며, 예시의 주제, 구성, 색상, 문구, 이전 캔버스 비율은 생성 참고나 현재 기본값이 되지 않습니다.
+
+원본을 정체성을 살리는 최소한의 선과 투명한 색 메모로 편집합니다. 가장 중요한 윤곽이나 동작을 시각적 모티프로 삼아 반복, 변주, 강세, 쉼, 그리고 정확한 멈춤으로 구성합니다.
+
+관찰 펜선 · 투명 담채 · 음악적 리듬 · 거의 흰 종이 · 능동적 여백
 
 <!-- xxd-panel-benefit:start -->
 ## 빠른 판단: XXD Panel 053이 나에게 맞을까요?

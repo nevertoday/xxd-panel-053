@@ -10,16 +10,11 @@
 [![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
 [![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
 
-<strong>简体中文</strong> 观察线稿 · 透明淡彩 · 音乐性节奏 · 近白纸面 · 大胆留白
+<strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-将源照片删减为仍能维持身份的少量线条与透明色彩笔记；最重要的轮廓或动作成为视觉动机，在重复、变奏、重音、停顿与留白中适时停下。
-
 ## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026 年 8 月 23 日<br>
-> GPT2 × 手绘 × 即兴 × 美学提示词 × VOL.053
 
 <table>
   <tr>
@@ -32,9 +27,16 @@
   </tr>
 </table>
 
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091521812878459186) · 2026 年 8 月 23 日<br>
+> GPT2 × 手绘 × 即兴 × 美学提示词 × VOL.053
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186">查看原推文与完整提示词 →</a></p>
 
 这些样张用于展示 053 的美学动机，不会把样张中的主体、构图、配色、文案或旧画幅变成生成参考或当前默认值。
+
+将源照片删减为仍能维持身份的少量线条与透明色彩笔记；最重要的轮廓或动作成为视觉动机，在重复、变奏、重音、停顿与留白中适时停下。
+
+观察线稿 · 透明淡彩 · 音乐性节奏 · 近白纸面 · 大胆留白
 
 <!-- xxd-panel-benefit:start -->
 ## 快速判断：XXD Panel 053 适合你吗？
