@@ -14,6 +14,28 @@
 
 </div>
 
+<!-- xxd-human-intro:start -->
+## The short, honest version
+
+Ever had a photo you loved turn into generic “AI design”? The subject survives, but the relationship, mood, and tiny details that made the photo yours disappear.
+
+That frustration is why I made **Panel 053**. It does not press a template onto your image. It first works out what must not be lost, then translates it into **Let the observed line stop at exactly the right moment**.
+
+### Understand it in 30 seconds
+
+- **Give it:** one photo, a folder of images, or a rough idea.
+- **It does:** preserves recognizable people, objects, actions, and relationships, then redesigns them in this Panel’s own visual language.
+- **You get:** ready-to-use PNGs—comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+
+### The easiest way to try it
+
+You do not need to study every option first. Give your Agent an image and say:
+
+> Use XXD Panel 053 on this image and recommend the best layout and size first.
+
+Check the samples below if you want to feel out the aesthetic. If you are ready, jump to [Get started](#get-started). The full modes, sizes, and parameters are tucked into an expandable reference for later.
+<!-- xxd-human-intro:end -->
+
 ## Samples · From X
 
 <table>
@@ -24,6 +46,14 @@
   <tr>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 053 sample 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 053 sample 4"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 053 Sample 5"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 053 Sample 6"></td>
+    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 053 Sample 7"></td>
+    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 053 Sample 8"></td>
   </tr>
 </table>
 
@@ -74,6 +104,9 @@ If an unrelated photograph could replace the source without materially changing 
 - “Natural transition” is visual continuity around the fixed midpoint, never a change to exact 50/50 paired geometry.
 
 Aesthetic constraints and rejection rules live only in the [original source brief](references/original-prompt/zh-CN.md); the Skill and runtime adapter handle delivery variables only. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-053-prompt.en.md)
+
+<details>
+<summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
 
 ## The original brief is authoritative
 
@@ -216,6 +249,8 @@ GPT Image 2 is the default first choice. It keeps this project's established wor
 Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model may also be used when it is actually available through the current tools or configured routes and can satisfy source fidelity, whole-canvas ratio, target-language text, and linked-wallpaper multi-reference requirements. An alternative changes only the generation route; it must not change modes, canvas, copy, locale, wallpaper relationship, or the complete-canvas-first strategy.
 
 If no suitable route is available, the Skill asks the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task without being echoed, displayed, logged, or exposed. They are not persisted, and provider, account, billing, or global route configuration is not modified, unless the user explicitly requests that configuration change.
+
+</details>
 
 ## Get started
 

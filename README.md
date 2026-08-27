@@ -14,6 +14,28 @@
 
 </div>
 
+<!-- xxd-human-intro:start -->
+## 先说人话
+
+你是不是也遇到过：照片明明很好，一交给 AI 做设计，就只剩一层千篇一律的“滤镜感”？主体还在，但那张照片原本的关系、情绪和小细节全丢了。
+
+我做 **Panel 053**，就是想解决这个别扭。它不是给照片硬套模板，而是先认出照片里真正不能丢的东西，再把它翻译成：**让被观察的线条在最恰当的位置停下**。
+
+### 30 秒看懂它
+
+- **给它什么：** 一张照片、一个图片文件夹，或者一个只说了大概方向的想法。
+- **它会做什么：** 保住人物、物件、动作和关系，再用这一号 Panel 独有的视觉语言重新设计。
+- **最后拿到什么：** 可直接使用的 PNG；可以做对照图、纯设计图，也可以一次生成多种比例或整套壁纸。
+
+### 最省事的试法
+
+不需要先读完下面所有参数。丢一张图给 Agent，然后说：
+
+> 用 XXD Panel 053 帮我处理这张图，先推荐最合适的构图和尺寸。
+
+想先确认审美，就看下面的样张；想马上开做，直接跳到 [开始使用](#开始使用)。完整模式、尺寸和参数都保留在后面的折叠资料里，需要时再查。
+<!-- xxd-human-intro:end -->
+
 ## 样张 · 来自 X
 
 <table>
@@ -24,6 +46,14 @@
   <tr>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 053 样张 3"></a></td>
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091521812878459186"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 053 样张 4"></a></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 053 样张 5"></td>
+  </tr>
+  <tr>
+    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 053 样张 6"></td>
+    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 053 样张 7"></td>
+    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 053 样张 8"></td>
   </tr>
 </table>
 
@@ -74,6 +104,9 @@
 - “自然衔接”是固定中线附近的视觉过渡语言，不改变双联严格 50/50 的几何分割。
 
 原始审美约束与拒绝项只存在于[原始提示词](references/original-prompt/zh-CN.md)；Skill 与运行适配器只处理本次交付变量。 [Skill 工作流](SKILL.md) · [英文运行适配器](references/xxd-panel-053-prompt.en.md)
+
+<details>
+<summary><strong>完整能力与参数（需要时再展开）</strong></summary>
 
 ## 原始提示词优先，而不是二次导演
 
@@ -216,6 +249,8 @@ GPT Image 2 是默认首选，并继续执行本项目现有的高保真垫图�
 当当前工具或已配置兼容通道确实可用，并能满足原图保真、整张成品比例、目标语言文字和连贯壁纸多图参考等要求时，也支持 Seedance 5.0 Pro、Nano Banana Pro（Gemini Image Pro）、Nano Banana 2（Gemini Image Flash）或其他兼容位图模型。备用模型只替换生成通道，不得改变模式、画幅、文案、语言、壁纸关系和完整画布优先策略。
 
 如果没有合适的生图通道，Skill 会请用户启用生图工具或提供 API Key。用户主动提供的凭据可以用于当前任务，但不得在回复或日志中回显、展示或泄露；未经用户明确要求，不会长期保存凭据或修改供应商、账户、计费及全局路由配置。
+
+</details>
 
 ## 开始使用
 
