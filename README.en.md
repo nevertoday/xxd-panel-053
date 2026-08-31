@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 053
+# 🦁 XXD Panel 053｜Pen-and-Wash Record
 
 ### Let the observed line stop at exactly the right moment
 

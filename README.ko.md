@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 053
+# 🦁 XXD Panel 053｜펜 담채 기록
 
 ### 관찰한 선을 가장 알맞은 순간에 멈추기
 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 053
+# 🦁 XXD Panel 053｜ペン淡彩の記録
 
 ### 観察した線を、最もふさわしい瞬間で止める
 

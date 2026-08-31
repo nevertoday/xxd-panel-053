@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 053
+# 🦁 XXD Panel 053｜钢笔淡彩录
 
 ### 让被观察的线条在最恰当的位置停下
 
