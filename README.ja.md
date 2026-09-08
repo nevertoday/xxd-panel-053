@@ -388,21 +388,6 @@ XXD は Xiaoxiaodong のブランド名略称です。作成・管理： [@xiaox
 
 <div align="center"><strong>写真を描き切らず、最もふさわしい瞬間で止める。</strong></div>
 
----
-
-<div align="center">
-
-## ☕ オープンソースを支援
-
-> **広告表示：** このセクションのQRコードおよび有料会員・サービスのリンクはXXDのプロモーション情報です。スキャンや購入は任意であり、オープンソースの利用には影響しません。
-
-このプロジェクトが役に立ったら、Buy Me a Coffee から任意で応援していただけます。
-
-
-<p align="center"><a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee" width="180"></a></p>
-
-</div>
-
 ## ライセンス
 
 本プロジェクト（Skill、プロンプト、スクリプト、ドキュメント、付属サンプルを含む）は **PolyForm Noncommercial License 1.0.0** で提供されます。完全な法的条文は [LICENSE](LICENSE) に、公式ページは <https://polyformproject.org/licenses/noncommercial/1.0.0> にあります。
