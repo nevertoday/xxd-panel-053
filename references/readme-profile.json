@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 053｜Pen-and-Wash Record: redraws only the visual clues of a photo worth recording as an observational pen sketch — thin, loose, uneven pen lines with broken contours, searching and corrected strokes, one or two bold free lines as accents and edges left unfinished, with light transparent touches of two to four colours from the photo that may spill over the line, on a near-white paper tone matched to the photo. The main outline or gesture repeats and varies like a musical motif, then stops, leaving large pauses of empty paper. A few free words or marks, no fixed title, year or language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-053 or asks for pen-and-wash sketches, urban sketching, loose observational line drawing from a photo.",
+  "short_description": "钢笔淡彩录：只记录照片里最值得看的线索，用松动钢笔线和少量淡彩，在恰当处停笔",
+  "zh-CN": {
+    "name": "钢笔淡彩录",
+    "tagline": "用观察式的钢笔线条和几处淡彩记下照片，在最恰当的地方停笔。",
+    "look": "画面不是完整描摹，只留下最值得记录的线索：纤细、松动、不均匀的钢笔线，有断续的轮廓、寻找线、重复修正和突然加重，一两根更果断的长线做重音，其余线条很快变淡，边缘没画完。主体最重要的轮廓或动作像音乐动机一样重复、变奏、停住，留下大片空白当作休止。只有少数地方点上 2 到 4 种照片里的颜色，轻薄透明，可以越线、留水痕；纸色是贴合照片冷暖的近白色。文字很少，是几个从照片里想到的词或符号，不固定标题、年份和语种。",
+    "traits": ["即兴手绘", "观察线条", "自然衔接", "克制", "现场感"],
+    "good": [
+      "适合速写的街头和日常场景：街角、咖啡馆窗边、市场摊位、公园长椅",
+      "有动作或姿态的人和动物：读书的人、伸懒腰的猫、骑车经过的人",
+      "想做成旅行速写本、私人手账或文章插图的照片"
+    ],
+    "poor": [
+      "需要完整、精细还原的图：产品图、建筑效果图、证件照",
+      "想要饱满上色、填满背景的完整水彩画",
+      "想要粗黑轮廓、矢量线条、卡通或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Pen-and-Wash Record",
+    "tagline": "Records your photo in observed pen lines and a few touches of wash, stopping exactly where it should.",
+    "look": "Rather than tracing the whole photo, it keeps only the clues worth recording: thin, loose, uneven pen lines with broken contours, searching strokes, corrections and sudden heavier marks, one or two bolder long lines as accents while the rest fade quickly and edges stay unfinished. The subject's key outline or gesture repeats and varies like a musical motif and then stops, leaving wide empty paper as rests. Only a few places get light, transparent touches of two to four colours from the photo, allowed to spill over the line and leave water marks, on a near-white paper tone matched to the photo's warmth or coolness. Text is minimal: a few words or marks the photo suggests, with no fixed title, year or language.",
+    "traits": ["Spontaneous drawing", "Observed line", "Natural joins", "Restraint", "On-the-spot feel"],
+    "good": [
+      "Street and everyday scenes made for sketching: a street corner, a café window, a market stall, a park bench",
+      "People and animals with a pose or action: someone reading, a cat stretching, a cyclist passing by",
+      "Photos for a travel sketchbook, a personal journal or an article illustration"
+    ],
+    "poor": [
+      "Images that need full, precise rendering: product shots, architectural renderings, ID photos",
+      "Requests for a fully coloured watercolour with the background filled in",
+      "Requests for heavy black outlines, vector lines, cartoons or 3D"
+    ]
+  },
+  "ja": {
+    "name": "ペン淡彩の記録",
+    "tagline": "観察したペンの線と数か所の淡彩で写真を書き留め、いちばんふさわしいところで筆を止めます。",
+    "look": "写真全体をなぞるのではなく、書き留める価値のある手がかりだけを残します。細く、ゆるく、不揃いなペンの線に、途切れる輪郭、探り線、描き直し、急に強まる線があり、一、二本のより思い切った長い線がアクセントになって、ほかの線はすぐに薄れ、縁は描き切りません。主役の大事な輪郭や動きが音楽のモチーフのように繰り返され、変奏され、止まり、大きな紙の余白が休符になります。色は数か所だけ、写真から取った二〜四色を薄く透明に置き、線からはみ出したり水の跡が残ったりします。紙の色は写真の寒暖に合わせたほぼ白です。文字はごく少なく、写真から思いついた言葉や記号が少しだけで、タイトル、年号、言語は決めていません。",
+    "traits": ["即興の手描き", "観察の線", "自然なつながり", "抑制", "現場の空気"],
+    "good": [
+      "スケッチ向きの街や日常の場面：街角、カフェの窓辺、市場の屋台、公園のベンチ",
+      "動きや姿勢のある人や動物：本を読む人、伸びをする猫、自転車で通り過ぎる人",
+      "旅のスケッチブック、個人の手帳、記事の挿絵にしたい写真"
+    ],
+    "poor": [
+      "完全で精密な描写が必要な画像：商品写真、建築パース、証明写真",
+      "しっかり彩色して背景まで埋めた水彩画を求める場合",
+      "太い黒の輪郭、ベクターの線、キャラクター風、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "펜 담채 기록",
+    "tagline": "관찰한 펜 선과 몇 군데의 담채로 사진을 기록하고, 가장 알맞은 곳에서 붓을 멈춥니다.",
+    "look": "사진 전체를 따라 그리지 않고 기록할 만한 단서만 남깁니다. 가늘고 느슨하며 고르지 않은 펜 선에 끊어진 윤곽, 더듬는 선, 고쳐 그은 선, 갑자기 진해지는 선이 있고, 한두 줄의 더 과감한 긴 선이 강세가 되며 나머지 선은 금세 옅어지고 가장자리는 미완으로 남습니다. 주인공의 중요한 윤곽이나 동작이 음악의 동기처럼 반복되고 변주되다가 멈추고, 넓은 빈 종이가 쉼표가 됩니다. 색은 몇 군데에만 사진에서 가져온 두세 가지에서 네 가지 색을 얇고 투명하게 올려 선을 넘거나 물자국을 남기고, 종이 색은 사진의 따뜻함과 차가움에 맞춘 거의 흰색입니다. 글자는 아주 적어 사진에서 떠오른 단어나 기호 몇 개뿐이며, 제목, 연도, 언어는 정해 두지 않습니다.",
+    "traits": ["즉흥 드로잉", "관찰의 선", "자연스러운 이음", "절제", "현장감"],
+    "good": [
+      "스케치하기 좋은 거리와 일상 장면: 길모퉁이, 카페 창가, 시장 노점, 공원 벤치",
+      "동작이나 자세가 있는 사람과 동물: 책 읽는 사람, 기지개 켜는 고양이, 자전거로 지나가는 사람",
+      "여행 스케치북, 개인 다이어리, 글 삽화로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "완전하고 정밀한 묘사가 필요한 이미지: 제품 사진, 건축 렌더링, 증명사진",
+      "색을 꽉 채우고 배경까지 다 칠한 수채화를 원하는 경우",
+      "굵은 검은 윤곽, 벡터 선, 캐릭터, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "سجل القلم والألوان الخفيفة",
+    "tagline": "يدوّن صورتك بخطوط قلم مُلاحِظة وبضع لمسات لونية خفيفة، ويتوقف في الموضع المناسب تماماً.",
+    "look": "لا يشفّ الصورة كلها، بل يحتفظ بالمفاتيح التي تستحق التدوين فقط: خطوط قلم رفيعة مرتخية غير متساوية، فيها حدود متقطعة وخطوط باحثة وتصحيحات وضغطات مفاجئة، وخط أو خطان طويلان أكثر جرأة كنبرة قوية، بينما يخفت الباقي سريعاً وتبقى الحواف غير مكتملة. يتكرر الخط الأساسي أو حركة الموضوع ويتنوع كلحن موسيقي ثم يتوقف، تاركاً ورقاً فارغاً واسعاً كأنه سكتات. لا تنال اللون إلا مواضع قليلة، بلمسات شفافة رقيقة من لونين إلى أربعة ألوان من الصورة، قد تتجاوز الخط وتترك آثار ماء، على ورق قريب من الأبيض يوافق دفء الصورة أو برودتها. النص قليل جداً: كلمات أو علامات توحي بها الصورة، بلا عنوان أو سنة أو لغة محددة سلفاً.",
+    "traits": ["رسم عفوي", "خط مُلاحِظ", "وصلات طبيعية", "اقتصاد", "حس المكان"],
+    "good": [
+      "مشاهد شارع ويومية تناسب الرسم السريع: ناصية شارع، نافذة مقهى، كشك في سوق، مقعد في حديقة",
+      "أشخاص وحيوانات في وضعية أو حركة: شخص يقرأ، قطة تتمطى، راكب دراجة يمر",
+      "صور لدفتر رسم أثناء السفر أو مفكرة شخصية أو رسم لمقال"
+    ],
+    "poor": [
+      "صور تحتاج إلى رسم كامل دقيق: صور المنتجات، المناظير المعمارية، صور الهوية",
+      "طلب لوحة مائية كاملة التلوين بخلفية ممتلئة",
+      "طلب حدود سوداء عريضة أو خطوط متجهية أو رسوم كرتونية أو مجسمات ثلاثية الأبعاد"
+    ]
+  }
+}

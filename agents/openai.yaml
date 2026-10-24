@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-053"
-  short_description: "Create Panel 053 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-053; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "钢笔淡彩录：只记录照片里最值得看的线索，用松动钢笔线和少量淡彩，在恰当处停笔"
+  default_prompt: "Use $xxd-panel-053 to turn my photo into Pen-and-Wash Record artwork."
 
 policy:
   allow_implicit_invocation: true

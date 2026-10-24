@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-053
-description: "Create XXD Panel 053 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-053 or requests the exact Panel 053 style."
+description: "XXD Panel 053｜Pen-and-Wash Record: redraws only the visual clues of a photo worth recording as an observational pen sketch — thin, loose, uneven pen lines with broken contours, searching and corrected strokes, one or two bold free lines as accents and edges left unfinished, with light transparent touches of two to four colours from the photo that may spill over the line, on a near-white paper tone matched to the photo. The main outline or gesture repeats and varies like a musical motif, then stops, leaving large pauses of empty paper. A few free words or marks, no fixed title, year or language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-053 or asks for pen-and-wash sketches, urban sketching, loose observational line drawing from a photo."
 ---
 
 # XXD Panel 053
